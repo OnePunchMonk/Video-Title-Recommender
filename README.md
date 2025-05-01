@@ -2,8 +2,6 @@
 
 ## Install Dependencies
 
-## How It Works
-
 ```python
 !pip install evaluate
 ```
